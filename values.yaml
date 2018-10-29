@@ -7,7 +7,17 @@ image:
   tag: v0.14.51
   pullPolicy: IfNotPresent
 
-env: []
+# extraArgs:
+# - ...
+
+# extraEnv:
+# - ...
+
+# extraVolumeMounts:
+# - ...
+
+# extraVolumes:
+# - ...
 
 service:
   type: ClusterIP

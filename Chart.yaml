@@ -2,4 +2,4 @@ apiVersion: v1
 appVersion: "v0.14.51"
 description: A Helm chart for Kubernetes
 name: syncthing
-version: 0.2.0
+version: 0.2.1
